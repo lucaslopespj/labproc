@@ -1,7 +1,7 @@
 # Projeto LABPROC
 
 ### Alunos
-Antonio Pinheiro - <br>
+Antonio Pinheiro da Silva Junior - 9004355 <br>
 Lucas Lopes de Paula Junior - 9344880<br>
 
 ## Objetivo
